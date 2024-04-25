@@ -15,6 +15,7 @@ const Exo1 = () => {
       </View>
     </TouchableOpacity>
   );
+  
 };
 
 export default Exo1;
